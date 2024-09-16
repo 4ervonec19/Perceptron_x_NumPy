@@ -5,4 +5,4 @@ The goal was to build Multi-Layered Perceptron (MLP) using NumPy only.
 All the necessary info yo may find [here](mlp_gradient_descent.ipynb)
 
 # Ermine 
-<img src="ermine.png" alt="ReLU plots" width="800"/>
+<img src="ermine.png" alt="Ermine gang" width="800"/>
